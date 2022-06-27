@@ -224,6 +224,9 @@
 	.blog-item{
 		margin-bottom: 30px;
 	}
+	.sr-only{
+		margin-top: 30px;
+	}
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
 	.top-navbar .navbar-light .navbar-nav .nav-item{
@@ -358,7 +361,9 @@
 	.inner-hmv{
 		margin-bottom: 30px;
 	}
-	
+	.sr-only{
+		margin-top: 30px;
+	}
 }
 
 
